@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @any-stone
+- 👋 Hi, I’m Annie
 - 👀 I’m interested in Web Dev, Game Dev and testing
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Game Development
