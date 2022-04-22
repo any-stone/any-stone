@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Annie
 - 👀 I’m interested in Web Dev, Game Dev and testing
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Game Development
+- 🌱 I’m currently learning JS and React
 - 📫 How to reach me: kuxa.business@gmail.com
 
 <!---
