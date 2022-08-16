@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Annie, checkout my portfolio: https://any-stone.github.io/portfolio/
 - 👀 I’m interested in testing, Game Dev and coding
-- 🌱 I’m currently learning JS 
+- 🌱 I’m currently learning JS and C++
 - 📫 How to reach me: kuxa.business@gmail.com
 <!---
 any-stone/any-stone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
